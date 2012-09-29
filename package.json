@@ -1,0 +1,36 @@
+{
+  "name": "mongo-stream",
+  "version": "0.0.1",
+  "description": "Streaming interface to mongo",
+  "keywords": [],
+  "author": "Raynos <raynos2@gmail.com>",
+  "repository": "git://github.com/Raynos/mongo-stream.git",
+  "main": "index",
+  "homepage": "https://github.com/Raynos/mongo-stream",
+  "contributors": [
+    {
+      "name": "Jake Verbaten"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/Raynos/mongo-stream/issues",
+    "email": "raynos2@gmail.com"
+  },
+  "dependencies": {
+    "read-stream": "~0.4.1",
+    "read-write-stream": "~0.1.0",
+    "write-stream": "~0.4.0",
+    "mapping-stream": "~0.1.0",
+    "from-source": "~0.1.0"
+  },
+  "devDependencies": {
+    "mongo-col": "~1.0.5"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/Raynos/mongo-stream/raw/master/LICENSE"
+    }
+  ],
+  "scripts": {}
+}
